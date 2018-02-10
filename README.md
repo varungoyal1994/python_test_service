@@ -1,6 +1,6 @@
 # python_test_service
 
-This is sample test service used to demonstrate how to use windows service.
+This is sample test service used to demonstrate how to use windows service in python.
 
 Steps:
 1.Run BuildExe.bat
